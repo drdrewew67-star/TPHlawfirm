@@ -296,6 +296,10 @@ body {
         gap: 1rem;
         align-items: center;
     }
+
+    .service .content div {
+        margin-top: 3rem;
+    }
 }
 
 @media (max-width: 450px) {
