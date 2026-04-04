@@ -290,7 +290,12 @@ body {
         flex-wrap: wrap;
     }
 
-
+    .service .content {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        align-items: center;
+    }
 }
 
 @media (max-width: 450px) {
