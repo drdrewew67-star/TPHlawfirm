@@ -14,7 +14,7 @@ body {
 }
 
 .navbar {
-   height: 10vh;
+   height: 8vh;
    display: flex;
    justify-content: space-between;
    align-content: center;
@@ -29,7 +29,7 @@ body {
 }
 
 .logo img {
-   height: 10vh;
+   height: inherit;
    width: 120%;
 }
 
@@ -106,7 +106,8 @@ body {
     text-decoration: none;
     display: inline-block;
     padding: 1rem 3rem;
-    font-size: 1.4rem;
+    font-size: 2rem;
+    font-weight: 700;
     color: white;
     background-color: var(--primary);
     border-radius: 0.5rem;
@@ -152,6 +153,7 @@ body {
     
 .about .loc-row {
     display: flex;
+    margin-bottom: 5rem;
 }
 
 .about .loc-row .map {
@@ -210,6 +212,7 @@ body {
 
 .service .content h4 {
     margin-bottom: 1rem;
+    font-weight:600;
 }
 
 .service .content p {
@@ -220,6 +223,7 @@ body {
     margin-top: auto;
     padding: 5px;
     text-decoration: none;
+    font-weight: 400;
     color: white;
     border-radius: 0.5rem;
     background-color: var(--primary);
@@ -304,9 +308,7 @@ body {
 
 @media (max-width: 450px) {
     body {
-    font-size: 55%;
+    font-size: 50%;
     }
 
-    .navbar {
-        height: 5rem;
 }
