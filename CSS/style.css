@@ -162,7 +162,7 @@ body {
 }
 
 .about .loc-row .map iframe {
-    width: 100%;
+    width: auto;
 }
 
 .about .loc-row .content {
