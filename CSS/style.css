@@ -306,4 +306,7 @@ body {
     body {
     font-size: 55%;
     }
+
+    .navbar {
+        height: 5rem;
 }
