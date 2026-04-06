@@ -202,7 +202,7 @@ body {
     height: 30%;
     top: 0;
     background: linear-gradient(0deg,
-    rgba(163, 163, 228, 0.8) 55%), rgba(225, 225, 225,) 8%;
+    rgba(163, 163, 228, 0) 55%), rgba(225, 225, 225,) 8%;
 }
 
 
