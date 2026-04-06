@@ -158,9 +158,12 @@ body {
 }
 
 .about .loc-row .map {
-    flex: 1 1 45rem;
+   display: none;
 }
 
+.about .loc-row .map.active {
+    display: flex;
+}
 .about .loc-row .map iframe {
     width: auto;
 }
