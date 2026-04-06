@@ -170,10 +170,15 @@ body {
     width: auto;
 }
 
+.loc-row-nav {
+    display: inline;
+    max-height: 4rem;
+}
+
 .about .loc-row .content {
+    display: flex;
     padding: 0 1rem;
     margin-bottom: 3rem;
-    display: inline;
 }
 
 .about .loc-row .content h3 {
