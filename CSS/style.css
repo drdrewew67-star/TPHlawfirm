@@ -193,6 +193,7 @@ body {
     flex-direction: column;
     flex: 1;
     padding: 20px;
+    min-width: 380;
     min-height: 250px;
     max-height: 250px;
     background-color: var(--secondary);
@@ -200,7 +201,7 @@ body {
 }
 
 .service h4 {
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
     font-weight:600;
 }
 
