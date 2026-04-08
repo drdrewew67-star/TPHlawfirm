@@ -204,6 +204,10 @@ body {
   max-width: 600px;
 }
 
+.location h2 {
+    margin: 3rem;
+}
+
 .accordion {
   border-radius: 10px;
   overflow: hidden;
