@@ -192,7 +192,7 @@ body {
     flex-direction: column;
     flex: 1;
     padding: 20px;
-    width: 480px;
+    min-width: 480px;
     min-height: 250px;
     max-height: 480px;
     background-color: var(--secondary);
