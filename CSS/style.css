@@ -192,8 +192,6 @@ body {
     flex-direction: column;
     flex: 1;
     padding: 20px;
-    min-width: 380px;
-    min-height: 250px;
     background-color: var(--secondary);
     border-radius: 0.5rem;
 }
