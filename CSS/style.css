@@ -230,9 +230,8 @@ body {
     display: block;
     position: absolute;
     width: 50%;
-    height: 100%;
-    bottom: 0%;
-     background: linear-gradient(0deg,
+    height: 100%;;
+     background: linear-gradient(90deg,
     rgb(255, 255, 255) 8%, rgba(163, 163, 228, 0) 55%);
 }
  
