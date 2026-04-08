@@ -222,6 +222,18 @@ summary {
   list-style: none;
 }
 
+summary::after {
+    content: '';
+    border-top: 1px #d6d6d6;
+    border-bottom: 1px #d6d6d6;
+    transition: linear 0.2s;
+}
+
+summary:hover::after {
+    border-top: var(--primary);
+    border-bottom: var(--primary);
+}
+
 /* hilangkan arrow default */
 summary::-webkit-details-marker {
   display: none;
