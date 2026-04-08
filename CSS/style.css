@@ -209,7 +209,7 @@ body {
 }
 
 .service a {
-    margin-top: 2rem;
+    margin-top: auto;
     padding: 5px;
     text-decoration: none;
     font-weight: 600;
