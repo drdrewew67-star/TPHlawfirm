@@ -151,48 +151,6 @@ body {
     font-weight: 200;
     margin-bottom: 0.8 rem;
 }
-    
-.about .loc-row {
-    display: flex;
-    margin-bottom: 5rem;
-}
-
-.about .loc-row .map {
-   display: none;
-}
-
-.about .loc-row .map.active {
-    display: flex;
-    size: 8rem;
-    justify-content: center;
-}
-.about .loc-row .map iframe {
-    width: auto;
-}
-
-.loc-row-nav {
-    display: inline;
-    max-height: 4rem;
-}
-
-.about .loc-row .content {
-    display: flex;
-    padding: 0 1rem;
-    margin-bottom: 3rem;
-}
-
-.about .loc-row .content h3 {
-    font-size: 1.8rem;
-    margin-bottom: 1rem;
-}
-
-
-.about .loc-row .content p {
-    font-size: 1.4rem;
-    font-weight: 200;
-    margin-bottom: 0.8 rem;
-    margin-left: 1rem;
-}
 
 .service {
     min-height: 100vh;
