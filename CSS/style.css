@@ -223,6 +223,7 @@ body {
   background-image: url(../IMG/addon.jpg);
   background-size: 100%;
   background-position: right;
+  background-repeat: no-repeat;
 }
 
 .location::after {
