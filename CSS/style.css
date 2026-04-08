@@ -152,7 +152,7 @@ body {
 }
 
 .service {
-    min-height: 150vh;
+    height: 150vh;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
