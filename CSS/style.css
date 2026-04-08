@@ -152,7 +152,7 @@ body {
 }
 
 .service {
-    height: 150vh;
+    height: 100vh;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
@@ -372,6 +372,14 @@ details[open] .map {
 
     .service .content div {
         margin: 2rem;
+    }
+
+    .service::after {
+        display: none;
+    }
+
+    .service::before {
+        display: none;
     }
 }
 
