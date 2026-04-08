@@ -200,6 +200,31 @@ body {
     text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
 }
 
+.location {
+  max-width: 600px;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: bold;
+  padding: 10px;
+  background: #eee;
+}
+
+
+
+/* iframe container */
+.map {
+  margin-top: 10px;
+}
+
+.map iframe {
+  width: 100%;
+  height: 300px;
+  border: 0;
+  border-radius: 10px;
+}
+
 @media (max-width: 1024) {
     body {
         font-size: 75%;
