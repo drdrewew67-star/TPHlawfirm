@@ -221,7 +221,7 @@ body {
   max-width: 600px;
   min-height: 400px;
   background-image: url(../IMG/addon.jpg);
-  background-size: cover 60%;
+  background-size: 60%;
   background-position: right;
 }
 
