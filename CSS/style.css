@@ -229,6 +229,7 @@ summary::-webkit-details-marker {
 
 /* chevron animasi */
 summary svg {
+  margin-right: 1rem;  
   transition: transform 0.3s ease;
 }
 
