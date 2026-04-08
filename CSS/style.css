@@ -222,7 +222,6 @@ body {
 .location {
   max-width: 600px;
   min-height: 400px;
-  background-image: ('../IMG/addon.jpg');
   background-size: 60% 100%;
   background-position:right;
   background-repeat: no-repeat;
