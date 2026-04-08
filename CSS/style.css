@@ -222,7 +222,7 @@ body {
   min-height: 400px;
   background-image: url(../IMG/addon.jpg);
   background-size: cover 60%;
-  background-position: center;
+  background-position: right;
 }
 
 .location::after {
