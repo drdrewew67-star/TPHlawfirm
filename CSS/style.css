@@ -155,7 +155,7 @@ body {
     minp-height: 100vh;
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 5px;
     align-items: center;
     background-image: url('../IMG/bg.jpg');
     background-repeat: no-repeat;
@@ -192,6 +192,7 @@ body {
     flex-direction: column;
     flex: 1;
     padding: 20px;
+    margin: 5px;
     min-width: 480px;
     min-height: 250px;
     max-height: 480px;
