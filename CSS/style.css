@@ -72,7 +72,7 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image:  linear-gradient(to bottom, white, transparent) url('../IMG/bg-kedua.jpg');
+    background:  linear-gradient(to bottom, white, transparent) url('../IMG/bg-kedua.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
