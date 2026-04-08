@@ -193,7 +193,8 @@ body {
     flex-direction: column;
     flex: 1;
     padding: 20px;
-   
+    min-height: 250px;
+    max-height: 250px;
     background-color: var(--secondary);
     border-radius: 0.5rem;
 }
@@ -208,7 +209,7 @@ body {
 }
 
 .service a {
-    margin-top: auto;
+    margin-top: 2rem;
     padding: 5px;
     text-decoration: none;
     font-weight: 600;
