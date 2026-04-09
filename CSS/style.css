@@ -364,7 +364,7 @@ details[open] .map {
 
     .service .content div {
         margin: 2rem;
-        min-width: 400px;
+        min-width: 80vw;
         max-height: 250px;
     }
 }
