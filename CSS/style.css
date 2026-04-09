@@ -170,7 +170,7 @@ body {
     flex-direction: column;
     flex: 1;
     padding: 20px;
-    min-height: 250px;
+    min-height: 300px;
     background-color: var(--secondary);
     border-radius: 0.5rem;
 }
