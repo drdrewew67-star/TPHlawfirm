@@ -336,6 +336,7 @@ details[open] .map {
 
     .service .content div {
         margin: 2rem;
+        min-width: 400px;
     }
 
     .service::after {
