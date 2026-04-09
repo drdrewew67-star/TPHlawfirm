@@ -359,6 +359,7 @@ details[open] .map {
         display: flex;
         flex-direction: column;
         gap: 1rem;
+        justify-items: center;
     }
 
     .service .content div {
