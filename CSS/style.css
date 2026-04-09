@@ -268,8 +268,11 @@ details[open] .map {
     flex-direction: column;
     padding: 20px;
     margin-top: 2rem;
-    background-color: #f5f5f5;
     border-radius: 0.5rem;
+}
+
+.location .contact .contact-content {
+    background-color: #f5f5f5;
 }
 
 .location .contact h2 {
@@ -277,7 +280,7 @@ details[open] .map {
     font-weight: 600;
 }
 
-.location .contact a {
+.location .contact .contact-content a {
     text-decoration: none;
     font-size: 2rem;
     font-weight: 600;
