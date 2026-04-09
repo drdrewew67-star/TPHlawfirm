@@ -355,13 +355,14 @@ details[open] .map {
         flex-wrap: wrap;
     }
 
-    .service .content {
-        display: block;
+    .service {
+        display: flex;
+        flex-direction: column;
         gap: 1rem;
         justify-items: center;
     }
 
-    .service .content div {
+    .service div {
         margin: 2rem;
     }
 }
