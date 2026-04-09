@@ -366,6 +366,7 @@ details[open] .map {
         margin: 2rem;
         justify-self: center;
     }
+    
 }
 
 @media (max-width: 450px) {
