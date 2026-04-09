@@ -273,7 +273,7 @@ details[open] .map {
 
 .location .contact .contact-content {
     background-color: #f5f5f5;
-    padding: 2rem;
+    padding: 20px;
     display: flex;
     flex-direction: column;
 }
