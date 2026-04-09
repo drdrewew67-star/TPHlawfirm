@@ -357,7 +357,7 @@ details[open] .map {
 
     .service .content {
         display: flex;
-        flex-direction: column;
+        flex-direction: column !important;
         gap: 1rem;
         justify-items: center;
     }
